@@ -236,13 +236,6 @@ flowchart TD
 │   ├── fraud_detection.ipynb
 │   ├── customer_clustering.ipynb
 │   └── regression_prediction.ipynb
-│
-├── mlruns/
-│   └── MLflow experiment logs
-│
-├── models/
-│   └── saved trained models
-│
 └── README.md
 ```
 
