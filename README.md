@@ -273,7 +273,7 @@ This repository includes:
 
 <div align="center">
 
-# 🌟 Author
+# Author
 
 ### Fadhilah Dwi Istiani
 **1103223141 — Machine Learning**
