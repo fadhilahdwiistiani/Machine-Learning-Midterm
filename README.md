@@ -203,25 +203,6 @@ Features:
 
 ---
 
-# 🔄 Machine Learning Workflow
-
-```mermaid
-flowchart TD
-    A[Load Dataset] --> B[Data Exploration]
-    B --> C[Data Cleaning]
-    C --> D[Missing Value Handling]
-    D --> E[Outlier Treatment]
-    E --> F[Feature Engineering]
-    F --> G[Feature Scaling]
-    G --> H[Model Training]
-    H --> I[Hyperparameter Tuning (Optuna)]
-    I --> J[Model Evaluation]
-    J --> K[Experiment Tracking (MLflow)]
-    K --> L[Result Interpretation]
-```
-
----
-
 # 📁 Repository Structure
 
 ```bash
