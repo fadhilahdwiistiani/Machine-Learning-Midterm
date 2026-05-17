@@ -1,0 +1,11 @@
+FINAL CONCLUSION
+
+This midterm project successfully implemented multiple end-to-end machine learning pipelines across different problem domains, including classification, regression, and clustering.
+
+For the classification task, a fraud detection pipeline was developed using machine learning techniques such as Logistic Regression, Random Forest, and XGBoost. The workflow included data preprocessing, missing value handling, feature preparation, imbalance treatment using SMOTE, model evaluation, hyperparameter tuning with Optuna, and experiment tracking with MLflow. The results demonstrated that machine learning models can effectively identify fraudulent transactions despite severe class imbalance.
+
+For the regression task, an end-to-end predictive modeling pipeline was built to estimate continuous target values using Linear Regression, Random Forest Regressor, and XGBoost Regressor. The process included data cleaning, outlier handling, scaling, feature preparation, model comparison using MAE, MSE, RMSE, and R², hyperparameter optimization using Optuna, model interpretation using LIME, and experiment tracking with MLflow. The results showed that ensemble-based regression models provided stronger predictive performance than baseline linear models.
+
+For the clustering task, an unsupervised learning pipeline was implemented for customer segmentation using KMeans, Hierarchical Clustering, and DBSCAN. The workflow included preprocessing, missing value imputation, outlier handling, feature scaling, cluster evaluation using Silhouette Score, Davies-Bouldin Score, and Calinski-Harabasz Score, as well as cluster profiling and interpretation. The clustering analysis successfully identified meaningful customer behavior segments that could support strategic decision-making.
+
+Overall, this project demonstrates the practical application of machine learning across supervised and unsupervised learning problems. Through proper preprocessing, model selection, optimization, evaluation, and interpretation, machine learning proved to be an effective approach for solving diverse real-world analytical challenges.
