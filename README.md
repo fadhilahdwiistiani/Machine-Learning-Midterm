@@ -203,25 +203,6 @@ Features:
 
 ---
 
-# 📁 Repository Structure
-
-```bash
-📦 machine-learning-midterm
-│
-├── datasets/
-│   ├── train_transaction.csv
-│   ├── clusteringmidterm.csv
-│   └── midterm-regresi-dataset.csv
-│
-├── notebooks/
-│   ├── fraud_detection.ipynb
-│   ├── customer_clustering.ipynb
-│   └── regression_prediction.ipynb
-└── README.md
-```
-
----
-
 # ▶️ How to Run
 
 ### Clone repository
